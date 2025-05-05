@@ -1,7 +1,15 @@
+# Node dependencies
 node_modules/
-build/
+
+# Development source files (not needed for production plugin)
+src/
+
+# Build cache
 *.log
-*.zip
-.DS_Store
+.cache/
 .vscode/
-.idea/
+.DS_Store
+
+# System files
+Thumbs.db
+

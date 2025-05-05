@@ -1,0 +1,1 @@
+(()=>{"use strict";(0,window.wp.blocks.registerBlockType)("mtdev/post-time-to-read",{edit:()=>"⏳ Este bloque muestra el tiempo de lectura en el frontend",save:()=>null})})();
